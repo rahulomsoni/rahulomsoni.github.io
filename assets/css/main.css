@@ -1,0 +1,57 @@
+
+body {
+  font-family: 'Arial', Helvetica, sans-serif;
+}
+
+
+h1, h2, h3, h4 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Arima+Madurai', cursive;
+  }
+
+/* Paragraphs Starts */  
+p.normal {
+  font-weight: 400;
+  font-family: 'Arima+Madurai', cursive;
+  margin: 0px;
+  font-size: 32px;
+}
+
+p.Barcode {
+  font-weight: 400;
+  font-family: 'Libre Barcode 39 Text', cursive;
+  margin: 0px;
+  font-size: 32px;
+}
+
+p.Lover {
+  font-weight: 400;
+  font-family: 'Lovers Quarrel', cursive;
+  margin: 0px;
+  font-size: 32px;
+}
+
+p.Lodger {
+  font-weight: 400;
+  font-family: 'Jolly Lodger', cursive;
+  margin: 0px;
+  font-size: 32px;
+}
+
+p.Shadow {
+  font-weight: 400;
+  font-family: 'Londrina Shadow', cursive;
+  margin: 0px;
+  font-size: 32px;
+}
+
+p.serif {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p.sansserif {
+  font-family: 'Arial', Helvetica, sans-serif;
+}
+
+/* Paragraphs End */  

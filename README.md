@@ -1,1 +1,1 @@
-# rahulomsoni.github.io
+# rahulomsoni.io
